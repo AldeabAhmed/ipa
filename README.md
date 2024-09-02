@@ -29,7 +29,7 @@ SHOOF هو التطبيق المثالي لمشاهدة الأحداث الري�
 
 ### خطوات التثبيت | Installation Steps
 
-1. **قم بتنزيل ملف SHOOF IPA** من [GitHub Releases](https://github.com/AldeabAhmed/SHOOF/releases](https://github.com/AldeabAhmed/ipa/releases/tag/1)).
+1. **قم بتنزيل ملف SHOOF IPA** من [GitHub Releases]((https://github.com/AldeabAhmed/ipa/releases/tag/1)).
 2. **قم بتثبيت ملف IPA** باستخدام إحدى الطرق التالية:
    - **طريقة الجلبريك**: استخدم أداة مثل *Cydia Impactor* أو *AltStore* لتحميل التطبيق.
    - **طريقة TrollStore**: قم بتثبيت ملف IPA مباشرة من خلال TrollStore لتجربة سلسة.
